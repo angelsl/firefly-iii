@@ -1,0 +1,54 @@
+{
+    "name": "laravel-json-api/non-eloquent",
+    "description": "Construct JSON:API resources for non-Eloquent classes.",
+    "keywords": [
+        "jsonapi.org",
+        "json-api",
+        "jsonapi",
+        "laravel"
+    ],
+    "homepage": "https://github.com/laravel-json-api/non-eloquent",
+    "support": {
+        "issues": "https://github.com/laravel-json-api/non-eloquent/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cloud Creativity Ltd",
+            "email": "info@cloudcreativity.co.uk"
+        },
+        {
+            "name": "Christopher Gammie",
+            "email": "contact@gammie.co.uk"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "laravel-json-api/core": "^4.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^9.0",
+        "phpunit/phpunit": "^10.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelJsonApi\\NonEloquent\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\": "tests/app",
+            "LaravelJsonApi\\NonEloquent\\Tests\\": "tests/lib"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "4.x-dev"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    }
+}

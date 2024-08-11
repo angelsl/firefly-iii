@@ -1,0 +1,259 @@
+{
+  "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-Dur5g48u.ttf",
+    "src": "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-O7nZalfM.woff2",
+    "src": "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-Bf3rG5Nx.ttf",
+    "src": "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-DgEfZSYE.woff2",
+    "src": "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-BV3CbEM2.ttf",
+    "src": "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-DOQJEhcS.woff2",
+    "src": "../../../node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "../../../node_modules/leaflet/dist/images/layers-2x.png": {
+    "file": "assets/layers-2x-Bpkbi35X.png",
+    "src": "../../../node_modules/leaflet/dist/images/layers-2x.png"
+  },
+  "../../../node_modules/leaflet/dist/images/layers.png": {
+    "file": "assets/layers-BWBAp2CZ.png",
+    "src": "../../../node_modules/leaflet/dist/images/layers.png"
+  },
+  "../../../node_modules/leaflet/dist/images/marker-icon.png": {
+    "file": "assets/marker-icon-hN30_KVU.png",
+    "src": "../../../node_modules/leaflet/dist/images/marker-icon.png"
+  },
+  "_create-empty-split-_Azbr7ce.js": {
+    "file": "assets/create-empty-split-_Azbr7ce.js",
+    "name": "create-empty-split",
+    "imports": [
+      "_vendor-ldojvSjw.js"
+    ]
+  },
+  "_dates-BuFpeg-W.js": {
+    "file": "assets/dates-BuFpeg-W.js",
+    "name": "dates",
+    "imports": [
+      "_vendor-ldojvSjw.js"
+    ]
+  },
+  "_format-money-C9cJykQv.js": {
+    "file": "assets/format-money-C9cJykQv.js",
+    "name": "format-money"
+  },
+  "_get-BlLHYOmR.js": {
+    "file": "assets/get-BlLHYOmR.js",
+    "name": "get",
+    "imports": [
+      "_dates-BuFpeg-W.js"
+    ]
+  },
+  "_get-DLtzz4Wp.js": {
+    "file": "assets/get-DLtzz4Wp.js",
+    "name": "get",
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_vendor-ldojvSjw.js"
+    ]
+  },
+  "_get-DfV3BsBn.js": {
+    "file": "assets/get-DfV3BsBn.js",
+    "name": "get",
+    "imports": [
+      "_dates-BuFpeg-W.js"
+    ]
+  },
+  "_get-_mbMOpdE.js": {
+    "file": "assets/get-_mbMOpdE.js",
+    "name": "get",
+    "imports": [
+      "_dates-BuFpeg-W.js"
+    ]
+  },
+  "_grid-ff3-theme-!~{00h}~.js": {
+    "file": "assets/grid-ff3-theme-DEFuE90S.css",
+    "src": "_grid-ff3-theme-!~{00h}~.js"
+  },
+  "_parse-downloaded-splits-DEWG8_w_.js": {
+    "file": "assets/parse-downloaded-splits-DEWG8_w_.js",
+    "name": "parse-downloaded-splits",
+    "imports": [
+      "_create-empty-split-_Azbr7ce.js",
+      "_vendor-ldojvSjw.js"
+    ]
+  },
+  "_post-CpC3yM-L.js": {
+    "file": "assets/post-CpC3yM-L.js",
+    "name": "post",
+    "imports": [
+      "_dates-BuFpeg-W.js"
+    ]
+  },
+  "_splice-errors-into-transactions-CvFJ1VU8.js": {
+    "file": "assets/splice-errors-into-transactions-CvFJ1VU8.js",
+    "name": "splice-errors-into-transactions",
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_get-BlLHYOmR.js",
+      "_vendor-ldojvSjw.js"
+    ]
+  },
+  "_vendor-!~{00b}~.js": {
+    "file": "assets/vendor-Dxx1buLL.css",
+    "src": "_vendor-!~{00b}~.js"
+  },
+  "_vendor-ldojvSjw.js": {
+    "file": "assets/vendor-ldojvSjw.js",
+    "name": "vendor",
+    "css": [
+      "assets/vendor-Dxx1buLL.css"
+    ],
+    "assets": [
+      "assets/layers-BWBAp2CZ.png",
+      "assets/layers-2x-Bpkbi35X.png",
+      "assets/marker-icon-hN30_KVU.png"
+    ]
+  },
+  "src/pages/accounts/index.js": {
+    "file": "assets/index-CBOe3SVC.js",
+    "name": "index",
+    "src": "src/pages/accounts/index.js",
+    "isEntry": true,
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_vendor-ldojvSjw.js",
+      "_format-money-C9cJykQv.js",
+      "_get-DLtzz4Wp.js"
+    ]
+  },
+  "src/pages/administrations/create.js": {
+    "file": "assets/create-CfHTsPOE.js",
+    "name": "create",
+    "src": "src/pages/administrations/create.js",
+    "isEntry": true,
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_post-CpC3yM-L.js",
+      "_vendor-ldojvSjw.js"
+    ]
+  },
+  "src/pages/administrations/edit.js": {
+    "file": "assets/edit-DrMKwYwk.js",
+    "name": "edit",
+    "src": "src/pages/administrations/edit.js",
+    "isEntry": true,
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_vendor-ldojvSjw.js",
+      "_get-_mbMOpdE.js"
+    ]
+  },
+  "src/pages/administrations/index.js": {
+    "file": "assets/index-D3udIaTX.js",
+    "name": "index",
+    "src": "src/pages/administrations/index.js",
+    "isEntry": true,
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_vendor-ldojvSjw.js",
+      "_get-_mbMOpdE.js",
+      "_post-CpC3yM-L.js"
+    ],
+    "css": [
+      "assets/grid-ff3-theme-DEFuE90S.css"
+    ]
+  },
+  "src/pages/dashboard/dashboard.js": {
+    "file": "assets/dashboard-DWxdmOIf.js",
+    "name": "dashboard",
+    "src": "src/pages/dashboard/dashboard.js",
+    "isEntry": true,
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_format-money-C9cJykQv.js",
+      "_get-DLtzz4Wp.js",
+      "_vendor-ldojvSjw.js",
+      "_get-DfV3BsBn.js",
+      "_get-BlLHYOmR.js"
+    ]
+  },
+  "src/pages/transactions/create.js": {
+    "file": "assets/create-CisELaFC.js",
+    "name": "create",
+    "src": "src/pages/transactions/create.js",
+    "isEntry": true,
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_create-empty-split-_Azbr7ce.js",
+      "_splice-errors-into-transactions-CvFJ1VU8.js",
+      "_format-money-C9cJykQv.js",
+      "_vendor-ldojvSjw.js",
+      "_get-BlLHYOmR.js"
+    ]
+  },
+  "src/pages/transactions/edit.js": {
+    "file": "assets/edit-D46_a8FK.js",
+    "name": "edit",
+    "src": "src/pages/transactions/edit.js",
+    "isEntry": true,
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_format-money-C9cJykQv.js",
+      "_get-DfV3BsBn.js",
+      "_parse-downloaded-splits-DEWG8_w_.js",
+      "_splice-errors-into-transactions-CvFJ1VU8.js",
+      "_vendor-ldojvSjw.js",
+      "_create-empty-split-_Azbr7ce.js",
+      "_get-BlLHYOmR.js"
+    ]
+  },
+  "src/pages/transactions/index.js": {
+    "file": "assets/index-W9s-q-L-.js",
+    "name": "index",
+    "src": "src/pages/transactions/index.js",
+    "isEntry": true,
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_vendor-ldojvSjw.js",
+      "_format-money-C9cJykQv.js",
+      "_get-DfV3BsBn.js"
+    ],
+    "css": [
+      "assets/grid-ff3-theme-DEFuE90S.css"
+    ]
+  },
+  "src/pages/transactions/show.js": {
+    "file": "assets/show-C1ScQpvU.js",
+    "name": "show",
+    "src": "src/pages/transactions/show.js",
+    "isEntry": true,
+    "imports": [
+      "_dates-BuFpeg-W.js",
+      "_vendor-ldojvSjw.js",
+      "_get-DfV3BsBn.js",
+      "_parse-downloaded-splits-DEWG8_w_.js",
+      "_format-money-C9cJykQv.js",
+      "_create-empty-split-_Azbr7ce.js"
+    ],
+    "css": [
+      "assets/show-B6OEmhmA.css"
+    ]
+  },
+  "src/sass/app.scss": {
+    "file": "assets/app-Bc8omr0d.css",
+    "src": "src/sass/app.scss",
+    "isEntry": true
+  }
+}
