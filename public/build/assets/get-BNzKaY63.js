@@ -1,0 +1,1 @@
+import{i as e}from"./dates-BQQUshrL.js";var t=class{show(t,n){return e.get(`/api/v1/user-groups/`+t,{params:n})}index(t){return e.get(`/api/v1/user-groups`,{params:t})}};export{t};

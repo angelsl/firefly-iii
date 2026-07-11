@@ -1,0 +1,1 @@
+import{i as e}from"./dates-BQQUshrL.js";var t=class{post(t){return e.post(`./api/v1/user-groups`,t)}use(t){let n=`./api/v1/user-groups/`+t+`/use`;return e.post(n,{})}};export{t};

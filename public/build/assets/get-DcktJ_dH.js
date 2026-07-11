@@ -1,0 +1,1 @@
+import{i as e}from"./dates-BQQUshrL.js";var t=class{list(t){return e.get(`/api/v1/subscriptions`,{params:t})}paid(t){return e.get(`/api/v1/subscriptions/sum/paid`,{params:t})}unpaid(t){return e.get(`/api/v1/subscriptions/sum/unpaid`,{params:t})}},n=class{list(t){return e.get(`/api/v1/piggy-banks`,{params:t})}};export{t as n,n as t};

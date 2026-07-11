@@ -1,0 +1,1 @@
+import{i as e}from"./dates-BQQUshrL.js";var t=class{list(t){return e.get(`/api/v1/transactions`,{params:t})}show(t,n){return e.get(`/api/v1/transactions/`+t,{params:n})}};export{t};
